@@ -5,6 +5,9 @@ my progress dicoding belajar tersimpan disini<br><br>
 - belajar mengenal git dan github
 - belajar perintah git dan github
 
+22 Februari 2025 belajar git dan github (50%)
+- ada tugas latihan
+
 
 
 
